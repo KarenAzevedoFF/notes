@@ -18,6 +18,11 @@ It's super customizable.
 
 I believe that It will save us a lot of work
 
+## Cons
+
+I did not find any
+
+
 ## Using
 
 The <Draggable/> component transparently adds draggability to its children.
