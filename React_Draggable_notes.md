@@ -2,6 +2,8 @@
 
 Library: https://github.com/mzabriskie/react-draggable
 
+Example: https://github.com/firstfoundry/foundry-diagrams/tree/kga/testing-react-draggable
+
 ## Pros
 
 Decent examples
