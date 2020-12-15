@@ -26,8 +26,11 @@ HelpCrunch is a customer communication platform
 </script>
 ```
 
-- Flexible customization. It is possible to add our custom CSS
+- Flexible and rich widget customization. It is possible to add our custom CSS
 https://docs.helpcrunch.com/setup/custom-css
+
+- Good UI/UX experience
 
 ## Cons
 - the widget takes a while to appear on the screen, but nothing so significant
+- Limited third-party integrations
