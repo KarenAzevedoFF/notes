@@ -1,7 +1,8 @@
+# HelpCrunch
 https://docs.helpcrunch.com/developers
 HelpCrunch is a customer communication platform
 
-Pros
+## Pros
 - Really easy integration, I did it in less then 5 minutes
 
 ```
@@ -25,7 +26,8 @@ Pros
 </script>
 ```
 
-- Flexible customization
+- Flexible customization. It is possible to add our custom CSS
+https://docs.helpcrunch.com/setup/custom-css
 
-Cons
+## Cons
 - the widget takes a while to appear on the screen, but nothing so significant
