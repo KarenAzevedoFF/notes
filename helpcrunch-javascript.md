@@ -4,6 +4,7 @@ HelpCrunch is a customer communication platform
 Pros
 - Really easy integration, I did it in less then 5 minutes
 
+```
 <script type="text/javascript">
 (function(w,d){
   w.HelpCrunch=function(){w.HelpCrunch.q.push(arguments)};w.HelpCrunch.q=[];
@@ -11,7 +12,9 @@ Pros
   if(w.attachEvent){w.attachEvent('onload',r)}else{w.addEventListener('load',r,false)}
 })(window, document)
 </script>
+```
 
+```
 <script type="text/javascript">
   HelpCrunch('init', 'bloomup', {
     applicationId: 1,
@@ -20,6 +23,7 @@ Pros
 
   HelpCrunch('showChatWidget');
 </script>
+```
 
 - Flexible customization
 
