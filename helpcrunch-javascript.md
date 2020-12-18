@@ -34,7 +34,7 @@ https://docs.helpcrunch.com/setup/custom-css
 ## Cons
 - The widget takes a while to appear on the screen, but nothing so significant
 - Limited third-party integrations
-- The widget can overwrite some elements on the page as tables, would be nice to minimize it if necessary (You can hide the HelpCrunch chat widget from certain pages of your website if you want to.) - https://docs.helpcrunch.com/setup/show-hide-chat-widget
+- The widget can overwrite some elements on the page as tables and buttons, would be nice to minimize it if necessary (You can hide the HelpCrunch chat widget from certain pages of your website if you want to.) - https://docs.helpcrunch.com/setup/show-hide-chat-widget
 
 ![overwrite](chat-bug.png)
 
