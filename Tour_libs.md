@@ -35,11 +35,26 @@ https://github.com/elrumordelaluz/reactour
 # react-shepherd
 https://github.com/shipshapecode/react-shepherd
 
+`Pros:`
+- Simple to use
+
+`Cons:`
+- React wrapper for Shepherd lib that has some discussed issues on Github as doesn’t support all browsers, maintaining Shepherd is a difficult task, and others.
+
 # react-user-tour
 https://github.com/socialtables/react-user-tour
+
+`Pros:`
+- Complete and good documentation
+
+`Cons:`
+- It is not used much, compared to the other libs
 
 # react-tour-guide
 https://github.com/robert8888/react-tour-guide
 
 # react-tourist
 https://github.com/khankuan/react-tourist
+
+`Cons:`
+- Little used, code not updated recently
