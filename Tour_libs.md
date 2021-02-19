@@ -1,3 +1,5 @@
+-- It was created to check some user guide and user overview libraries:
+
 # intro
 https://github.com/usablica/intro.js
 
