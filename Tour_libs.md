@@ -49,11 +49,16 @@ https://github.com/socialtables/react-user-tour
 `Pros:`
 - Complete and good documentation
 
-`Cons:`
-- It is not used much, compared to the other libs
 
 # react-tour-guide
 https://github.com/robert8888/react-tour-guide
+
+`Pros:`
+- Complete documentation
+
+`Cons:`
+- It is not used much, compared to the other libs
+- The others libs seem easier to use than this one
 
 # react-tourist
 https://github.com/khankuan/react-tourist
