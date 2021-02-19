@@ -1,6 +1,7 @@
--- It was created to check some user guide and user overview libraries:
+# Tour libraries
+- It was created to check some user guide and user overview libraries:
 
-# intro
+## intro
 https://github.com/usablica/intro.js
 
 `Pros:`
@@ -11,7 +12,7 @@ https://github.com/usablica/intro.js
 - No React
 - The library is open source and "free" software, but at the same time if we want to use it for commercial use it seems we need to pay a license fee. (https://introjs.com/#commercial)
 
-# react-joyride
+## react-joyride
 https://github.com/gilbarbara/react-joyride
 
 `Pros:`
@@ -23,7 +24,7 @@ https://github.com/gilbarbara/react-joyride
 `Cons:`
 - The UI is not as elegant, but it is customizable
 
-# reactour
+## reactour
 https://github.com/elrumordelaluz/reactour
 
 `Pros:`
@@ -34,7 +35,7 @@ https://github.com/elrumordelaluz/reactour
 
 `Cons:`
 
-# react-shepherd
+## react-shepherd
 https://github.com/shipshapecode/react-shepherd
 
 `Pros:`
@@ -43,14 +44,17 @@ https://github.com/shipshapecode/react-shepherd
 `Cons:`
 - React wrapper for Shepherd lib that has some discussed issues on Github as doesn’t support all browsers, maintaining Shepherd is a difficult task, and others.
 
-# react-user-tour
+## react-user-tour
 https://github.com/socialtables/react-user-tour
 
 `Pros:`
 - Complete and good documentation
 
+`Cons:`
+- Bad UI
+- not so good documentation
 
-# react-tour-guide
+## react-tour-guide
 https://github.com/robert8888/react-tour-guide
 
 `Pros:`
@@ -58,10 +62,13 @@ https://github.com/robert8888/react-tour-guide
 
 `Cons:`
 - It is not used much, compared to the other libs
-- The others libs seem easier to use than this one
+- The other libs seem easier to use than this one
 
-# react-tourist
+## react-tourist
 https://github.com/khankuan/react-tourist
 
 `Cons:`
 - Little used, code not updated recently
+
+# Conclusion:
+- The `reactour` and the `react-joyride` seem the best options. Both has great documentation. I really like the reactour, it is extremely simple and has good code examples.
